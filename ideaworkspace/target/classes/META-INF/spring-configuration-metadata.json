@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "todo",
+      "type": "com.example.demo.oneday.TodoList",
+      "sourceType": "com.example.demo.oneday.TodoList"
+    }
+  ],
+  "properties": [
+    {
+      "name": "todo.date",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.oneday.TodoList"
+    },
+    {
+      "name": "todo.thing",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.oneday.TodoList"
+    }
+  ],
+  "hints": []
+}
